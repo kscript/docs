@@ -1,0 +1,24 @@
+{
+  "name": "docs",
+  "version": "1.0.0",
+  "description": "用于存放Markdown文件供其他仓库使用",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "serve": "http-server . -p 20080"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://kscript: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@github.com/kscript/docs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kscript/docs/issues"
+  },
+  "homepage": "https://github.com/kscript/docs#readme",
+  "dependencies": {
+    "http-server": "^14.0.0"
+  }
+}
